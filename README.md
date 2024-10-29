@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Shakira!
+- I am a third-year undergraduate student majoring in Computer Science and minoring in Molecular Biology and Genetics at the University of Guelph, Ontario, Canada.
+- I have worked with C, Java, R, SQL and powerBI.
+- I am passionate about applying my technical skills to solve real-world problems, particularly in the fields of data analysis.
+- Currently strengthening my understanding of data structures and algorithms, while expanding my knowledge of Java for software development.
+- 📫 You can reach me on, LinkedIN: https://www.linkedin.com/in/shakira-janan-rida/ or email me, srida@uoguelph.ca
